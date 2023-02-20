@@ -4935,7 +4935,8 @@ button.bg-dark:focus {
 
 .image1{
   margin: auto;
-  width: 700px;
+  max-width: 70%;
+
 }
 
 .flex-row {
